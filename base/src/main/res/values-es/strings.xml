@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question">Pregunta</string>
+    <string name="type">Tipo</string>
+    <string name="value">Valor</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="multi_choice">Seleccion Multiple</string>
+    <string name="points">pts.</string>
+    <string name="single_choice">Respuesta Unica</string>
+    <string name="answere">Respuesta</string>
+    <string name="admin">Administrador</string>
+    <string name="save">Guardar</string>
+    <string name="quiz">Prueba</string>
+    <string name="submit">Someter</string>
+</resources>
